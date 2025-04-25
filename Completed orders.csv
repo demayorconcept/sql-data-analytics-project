@@ -1,0 +1,638 @@
+CustomerID,customer_name,AverageOrderValue,TotaLOrderValue,TotalRevenue,TotalCompletedOrder,DeliverMonth,DeliverYear,DedicatedCompanyID,customer_category,CustomerRank4months
+9541,"Reliance Health",1497,5793000,1448250,3871,October,2024,762,specialcustomer,1
+9541,"Reliance Health",1498,5700000,1425000,3805,August,2024,762,specialcustomer,2
+9541,"Reliance Health",1502,5482000,1370500,3651,September,2024,762,specialcustomer,3
+9541,"Reliance Health",1496,5240500,1310125,3504,November,2024,762,specialcustomer,4
+9541,"Reliance Health",1498,4795500,1198875,3202,March,2025,762,specialcustomer,5
+9541,"Reliance Health",1500,4608000,1152000,3073,January,2025,762,specialcustomer,6
+9541,"Reliance Health",1499,4041500,1010375,2697,February,2025,762,specialcustomer,7
+9541,"Reliance Health",1497,4018200,1004550,2684,December,2024,762,specialcustomer,8
+11091,"Shipbubble Tech",2050,3507550,876888,1711,March,2025,762,specialcustomer,9
+11091,"Shipbubble Tech",2050,3435550,858888,1676,October,2024,762,specialcustomer,10
+11091,"Shipbubble Tech",2050,2269350,567338,1107,September,2024,762,specialcustomer,11
+11194,"Chinwe Crystal",2000,2025850,506463,1013,December,2024,762,specialcustomer,12
+12304,Josh,15869,15281800,3056360,963,February,2025,NULL,generalcustomer,13
+12304,Josh,15626,14719230,2949809,942,March,2025,NULL,generalcustomer,14
+11091,"Shipbubble Tech",2050,1918800,479700,936,December,2024,762,specialcustomer,15
+11194,"Chinwe Crystal",1953,1781500,445375,912,September,2024,762,specialcustomer,16
+11091,"Shipbubble Tech",2050,1804000,451000,880,November,2024,762,specialcustomer,17
+11194,"Chinwe Crystal",2133,1826000,456500,856,January,2025,762,specialcustomer,18
+11091,"Shipbubble Tech",2050,1701500,425375,830,February,2025,762,specialcustomer,19
+10792,"Kuda Atm Cards",1507,1224000,305775,812,December,2024,NULL,generalcustomer,20
+10792,"Kuda Atm Cards",1500,1170000,291450,780,November,2024,NULL,generalcustomer,21
+11194,"Chinwe Crystal",1953,1449000,362250,742,October,2024,762,specialcustomer,22
+11091,"Shipbubble Tech",2047,1471900,367975,719,January,2025,762,specialcustomer,23
+11194,"Chinwe Crystal",2071,1464000,366000,707,November,2024,762,specialcustomer,24
+10792,"Kuda Atm Cards",1507,996000,198300,661,August,2024,NULL,generalcustomer,25
+12275,"Medplus Limited",23797,14611150,3181920,614,January,2025,NULL,generalcustomer,26
+11194,"Chinwe Crystal",1941,1176000,294000,606,August,2024,762,specialcustomer,27
+10792,"Kuda Atm Cards",1500,862500,172500,575,September,2024,NULL,generalcustomer,28
+10792,"Kuda Atm Cards",1508,802500,200325,532,January,2025,NULL,generalcustomer,29
+11194,"Chinwe Crystal",2330,1218500,304625,523,February,2025,762,specialcustomer,30
+10792,"Kuda Atm Cards",1500,766500,163500,511,October,2024,NULL,generalcustomer,31
+11194,"Chinwe Crystal",2192,1113500,278375,508,March,2025,762,specialcustomer,32
+12304,Josh,16758,7842580,1864610,468,January,2025,NULL,generalcustomer,33
+11664,"Leadway Health Limited ",1500,571500,125730,381,October,2024,762,specialcustomer,34
+11075,"Kuda Atm Lagos",1000,370000,111000,370,October,2024,762,specialcustomer,35
+11075,"Kuda Atm Lagos",997,340000,102000,341,January,2025,762,specialcustomer,36
+12275,"Medplus Limited",27497,8249180,1680814,300,March,2025,NULL,generalcustomer,37
+11075,"Kuda Atm Lagos",1000,256000,76800,256,November,2024,762,specialcustomer,38
+11427,"Shiip International",2730,696100,174025,255,December,2024,762,specialcustomer,39
+11075,"Kuda Atm Lagos",1000,241000,72250,241,August,2024,762,specialcustomer,40
+12275,"Medplus Limited",25620,6020631,1233899,235,February,2025,NULL,generalcustomer,41
+11664,"Leadway Health Limited ",1474,345000,75900,234,January,2025,762,specialcustomer,42
+11664,"Leadway Health Limited ",1500,345000,75900,230,November,2024,762,specialcustomer,43
+11427,"Shiip International",1800,410400,102600,228,August,2024,762,specialcustomer,44
+11664,"Leadway Health Limited ",1500,276000,65940,184,August,2024,762,specialcustomer,45
+11265,"Dreambox Nigeria",1800,313200,78300,174,August,2024,762,specialcustomer,46
+11556,9606bycyndy,2506,406000,101500,162,December,2024,762,specialcustomer,47
+11075,"Kuda Atm Lagos",1000,161000,48300,161,September,2024,762,specialcustomer,48
+11265,"Dreambox Nigeria",2293,369200,92300,161,March,2025,762,specialcustomer,48
+11265,"Dreambox Nigeria",2309,367200,91800,159,October,2024,762,specialcustomer,50
+11427,"Shiip International",2974,460900,115225,155,January,2025,762,specialcustomer,51
+11427,"Shiip International",1800,275400,68850,153,October,2024,762,specialcustomer,52
+11427,"Shiip International",1800,270000,67500,150,November,2024,762,specialcustomer,53
+11427,"Shiip International",1800,262800,65700,146,September,2024,762,specialcustomer,54
+11427,"Shiip International",2988,412400,103100,138,February,2025,762,specialcustomer,55
+11556,9606bycyndy,2500,342500,85625,137,November,2024,762,specialcustomer,56
+11075,"Kuda Atm Lagos",1000,137000,41100,137,December,2024,762,specialcustomer,56
+11556,9606bycyndy,2500,332500,83125,133,October,2024,762,specialcustomer,58
+11664,"Leadway Health Limited ",1489,196500,43230,132,December,2024,762,specialcustomer,59
+12275,"Medplus Limited",22603,2938400,734600,130,December,2024,NULL,generalcustomer,60
+11556,9606bycyndy,2345,295500,73875,126,September,2024,762,specialcustomer,61
+11265,"Dreambox Nigeria",2306,290600,72650,126,November,2024,762,specialcustomer,61
+11664,"Leadway Health Limited ",1488,183000,40260,123,February,2025,762,specialcustomer,63
+11265,"Dreambox Nigeria",1987,238400,59600,120,September,2024,762,specialcustomer,64
+10520,"Kuda Commercial",7359,861000,215250,117,January,2025,NULL,generalcustomer,65
+11956,Jacbell,4500,517500,129375,115,September,2024,762,specialcustomer,66
+11265,"Dreambox Nigeria",2346,265100,66275,113,December,2024,762,specialcustomer,67
+11556,9606bycyndy,2000,222000,55500,111,August,2024,762,specialcustomer,68
+11556,9606bycyndy,2500,277500,69375,111,March,2025,762,specialcustomer,68
+11664,"Leadway Health Limited ",1459,159000,34980,109,March,2025,762,specialcustomer,70
+11556,9606bycyndy,2514,266500,66625,106,January,2025,762,specialcustomer,71
+11556,9606bycyndy,2500,257500,64375,103,February,2025,762,specialcustomer,72
+11664,"Leadway Health Limited ",1500,153000,33660,102,September,2024,762,specialcustomer,73
+9928,"Topship Africa",3960,376210,94053,95,January,2025,762,specialcustomer,74
+9928,"Topship Africa",2231,209727,52432,94,August,2024,762,specialcustomer,75
+12304,Josh,18350,1724900,431225,94,December,2024,NULL,generalcustomer,75
+12684,"Amal Botanicals",3064,288000,72000,94,March,2025,762,specialcustomer,75
+12005,Sensiblemagodo@gmail.com,1051,97700,32825,93,September,2024,762,specialcustomer,78
+9510,Noshtrybe,1286,118300,31925,92,October,2024,762,specialcustomer,79
+11329,"Nonso ",2500,225000,56250,90,December,2024,762,specialcustomer,80
+11956,Jacbell,5547,477000,155250,86,October,2024,762,specialcustomer,81
+9928,"Topship Africa",2355,200133,50033,85,September,2024,762,specialcustomer,82
+11427,"Shiip International",2968,252300,63075,85,March,2025,762,specialcustomer,82
+9928,"Topship Africa",3529,275285,68821,78,October,2024,762,specialcustomer,84
+11091,"Shipbubble Tech",1988,145150,36288,73,August,2024,762,specialcustomer,85
+11265,"Dreambox Nigeria",2321,169400,42350,73,February,2025,762,specialcustomer,85
+9928,"Topship Africa",3129,222155,55539,71,February,2025,762,specialcustomer,87
+11969,Trendythriftbyb,2000,140000,35000,70,December,2024,762,specialcustomer,88
+12005,Sensiblemagodo@gmail.com,1291,86500,23025,67,November,2024,762,specialcustomer,89
+12005,Sensiblemagodo@gmail.com,1261,81950,21900,65,October,2024,762,specialcustomer,90
+9928,"Topship Africa",3722,238190,59548,64,December,2024,762,specialcustomer,91
+9928,"Topship Africa",3783,230790,57698,61,November,2024,762,specialcustomer,92
+11265,"Dreambox Nigeria",2285,137100,34275,60,January,2025,762,specialcustomer,93
+10520,"Kuda Commercial",7305,431000,86200,59,February,2025,NULL,generalcustomer,94
+9928,"Topship Africa",3124,181220,45305,58,March,2025,762,specialcustomer,95
+12535,"closetpurge ",2491,142000,35500,57,March,2025,762,specialcustomer,96
+12304,Josh,4625,240500,60125,52,February,2025,762,specialcustomer,97
+11329,"Nonso ",2500,125000,31250,50,October,2024,762,specialcustomer,98
+11969,Trendythriftbyb,2000,100000,25000,50,October,2024,762,specialcustomer,98
+11329,"Nonso ",2500,125000,31250,50,January,2025,762,specialcustomer,98
+10520,"Kuda Commercial",7362,346000,74850,47,November,2024,NULL,generalcustomer,101
+11969,Trendythriftbyb,2521,118500,29625,47,March,2025,762,specialcustomer,101
+11329,"Nonso ",2000,92000,23000,46,August,2024,762,specialcustomer,103
+11011,"Bigfeetshoeszone ",2500,115000,28750,46,December,2024,762,specialcustomer,103
+10520,"Kuda Commercial",7400,333000,13500,45,September,2024,NULL,generalcustomer,105
+11034,Shipafrica,3545,156000,39000,44,November,2024,762,specialcustomer,106
+12132,Thefitnessfaculty,2500,110000,27500,44,January,2025,762,specialcustomer,106
+12132,Thefitnessfaculty,2500,107500,26875,43,December,2024,762,specialcustomer,108
+10520,"Kuda Commercial",2528,108700,27175,43,January,2025,762,specialcustomer,108
+10520,"Kuda Commercial",7567,325400,65080,43,March,2025,NULL,generalcustomer,108
+11329,"Nonso ",2500,100000,25000,40,November,2024,762,specialcustomer,111
+11541,"Lasepa Headquarters",4000,152000,53200,38,February,2025,762,specialcustomer,112
+12409,"Tura Adebowale",2500,95000,23750,38,February,2025,762,specialcustomer,112
+10565,"Phonexperts Nigeria",1946,72000,18000,37,January,2025,762,specialcustomer,114
+12409,"Tura Adebowale",2500,92500,23125,37,March,2025,762,specialcustomer,114
+5373,Dellyman,1352,48660,12228,36,August,2024,762,specialcustomer,116
+5373,Dellyman,2768,99645,24961,36,December,2024,762,specialcustomer,116
+11934,"Clearline International Ltd",8722,314004,63326,36,February,2025,NULL,generalcustomer,116
+11969,Trendythriftbyb,2500,87500,21875,35,February,2025,762,specialcustomer,119
+11602,"SendPlus ",2379,80890,20222,34,August,2024,NULL,generalcustomer,120
+11956,Jacbell,6000,204000,71400,34,November,2024,762,specialcustomer,120
+11969,Trendythriftbyb,2000,66000,16500,33,September,2024,762,specialcustomer,122
+5373,Dellyman,2171,71656,18164,33,January,2025,762,specialcustomer,122
+11329,"Nonso ",2266,72500,18025,32,September,2024,762,specialcustomer,124
+10520,"Kuda Commercial",2406,77000,18810,32,November,2024,762,specialcustomer,124
+11011,"Bigfeetshoeszone ",2500,80000,20000,32,November,2024,762,specialcustomer,124
+10520,"Kuda Commercial",2269,72600,18150,32,February,2025,762,specialcustomer,124
+11034,Shipafrica,2000,62000,15500,31,August,2024,762,specialcustomer,128
+11969,Trendythriftbyb,2000,62000,15500,31,November,2024,762,specialcustomer,128
+10520,"Kuda Commercial",2753,82580,20645,30,December,2024,762,specialcustomer,130
+11956,Jacbell,5900,177000,61650,30,December,2024,762,specialcustomer,130
+11011,"Bigfeetshoeszone ",2500,75000,18750,30,January,2025,762,specialcustomer,130
+10372,"Terminal Africa",1769,51300,12825,29,August,2024,762,specialcustomer,133
+10520,"Kuda Commercial",7448,216000,11350,29,October,2024,NULL,generalcustomer,133
+10565,"Phonexperts Nigeria",2000,58000,14500,29,October,2024,762,specialcustomer,133
+9510,Noshtrybe,1091,31650,8700,29,December,2024,762,specialcustomer,133
+12409,"Tura Adebowale",2500,72500,18125,29,January,2025,762,specialcustomer,133
+12371,"GVS COSMETICS ",7402,214650,43930,29,March,2025,NULL,generalcustomer,133
+12275,"Medplus Limited",11136,311795,77949,28,January,2025,762,specialcustomer,139
+11956,Jacbell,4500,121500,30375,27,August,2024,762,specialcustomer,140
+10372,"Terminal Africa",1733,46800,11700,27,September,2024,762,specialcustomer,140
+10565,"Phonexperts Nigeria",2037,55000,13750,27,February,2025,762,specialcustomer,140
+11194,"Chinwe Crystal",5677,153270,30654,27,February,2025,NULL,generalcustomer,140
+11011,"Bigfeetshoeszone ",2269,59000,14750,26,September,2024,762,specialcustomer,144
+11956,Jacbell,17368,434200,19900,25,October,2024,NULL,generalcustomer,145
+9510,Noshtrybe,1050,26250,7500,25,November,2024,762,specialcustomer,145
+10565,"Phonexperts Nigeria",2000,50000,12500,25,November,2024,762,specialcustomer,145
+11793,"NowNow Digital Systems ",19192,479800,116400,25,January,2025,NULL,generalcustomer,145
+10792,"Kuda Atm Cards",1500,37500,9375,25,February,2025,NULL,generalcustomer,145
+11011,"Bigfeetshoeszone ",2500,62500,15625,25,March,2025,762,specialcustomer,145
+10520,"Kuda Commercial",7342,176200,7200,24,August,2024,NULL,generalcustomer,151
+11924,Arcade,2000,46000,11500,23,August,2024,762,specialcustomer,152
+10372,"Terminal Africa",4935,113500,28375,23,October,2024,762,specialcustomer,152
+11329,"Nonso ",2500,57500,14375,23,March,2025,762,specialcustomer,152
+12132,Thefitnessfaculty,2500,57500,14375,23,March,2025,762,specialcustomer,152
+12304,Josh,4717,108500,27125,23,March,2025,762,specialcustomer,152
+11011,"Bigfeetshoeszone ",2000,44000,11000,22,August,2024,762,specialcustomer,157
+5373,Dellyman,2014,44300,11075,22,November,2024,762,specialcustomer,157
+12535,"closetpurge ",2500,55000,13750,22,February,2025,762,specialcustomer,157
+9510,Noshtrybe,1690,35500,9550,21,September,2024,762,specialcustomer,160
+11011,"Bigfeetshoeszone ",2500,52500,13125,21,October,2024,762,specialcustomer,160
+12167,"Dodan Foods",2000,42000,10500,21,November,2024,762,specialcustomer,160
+10565,"Phonexperts Nigeria",2000,42000,10500,21,December,2024,762,specialcustomer,160
+11769,"Famasi Africa ",1500,30000,7500,20,August,2024,762,specialcustomer,164
+11034,Shipafrica,2000,40000,10000,20,September,2024,762,specialcustomer,164
+11392,"Qees Collections",2450,49000,12250,20,September,2024,762,specialcustomer,164
+12098,"Green Lotto Nigeria",15275,305500,68350,20,January,2025,NULL,generalcustomer,164
+10565,"Phonexperts Nigeria",1800,36000,9000,20,March,2025,762,specialcustomer,164
+11744,"Dellyman Trade Fair",6747,128200,11900,19,October,2024,NULL,generalcustomer,169
+11534,"tivieh beads",2500,47500,11875,19,October,2024,762,specialcustomer,169
+11969,Trendythriftbyb,3694,66500,16625,18,November,2024,NULL,generalcustomer,171
+11934,"Clearline International Ltd",7556,136000,34000,18,December,2024,NULL,generalcustomer,171
+11956,Jacbell,6000,108000,37800,18,January,2025,762,specialcustomer,171
+11934,"Clearline International Ltd",11289,203200,47655,18,January,2025,NULL,generalcustomer,171
+11329,"Nonso ",2500,45000,11250,18,February,2025,762,specialcustomer,171
+11011,"Bigfeetshoeszone ",2500,45000,11250,18,February,2025,762,specialcustomer,171
+11414,"instaDrop LLC",2535,43100,10775,17,December,2024,762,specialcustomer,177
+12371,"GVS COSMETICS ",7724,131300,25600,17,February,2025,NULL,generalcustomer,177
+10520,"Kuda Commercial",2459,41800,10450,17,March,2025,762,specialcustomer,177
+11534,"tivieh beads",2500,40000,10000,16,November,2024,762,specialcustomer,180
+11969,Trendythriftbyb,2656,42500,10625,16,January,2025,762,specialcustomer,180
+12132,Thefitnessfaculty,2500,40000,10000,16,February,2025,762,specialcustomer,180
+11969,Trendythriftbyb,2000,30000,7500,15,August,2024,762,specialcustomer,183
+11793,"NowNow Digital Systems ",16360,245400,4500,15,October,2024,NULL,generalcustomer,183
+12371,"GVS COSMETICS ",3100,46500,11625,15,February,2025,762,specialcustomer,183
+12022,"Caleb Taiwo",3405,51075,11993,15,March,2025,NULL,generalcustomer,183
+11934,"Clearline International Ltd",8224,123363,25173,15,March,2025,NULL,generalcustomer,183
+11769,"Famasi Africa ",6857,96000,4200,14,September,2024,NULL,generalcustomer,188
+5373,Dellyman,2610,36545,9086,14,October,2024,762,specialcustomer,188
+12152,"Hci Healthcare",2000,28000,7000,14,November,2024,762,specialcustomer,188
+12275,"Medplus Limited",7992,111885,27971,14,February,2025,762,specialcustomer,188
+11744,"Dellyman Trade Fair",3357,47000,11750,14,March,2025,762,specialcustomer,188
+11602,"SendPlus ",3236,42067,10516,13,September,2024,NULL,generalcustomer,193
+5373,Dellyman,1953,25385,6384,13,September,2024,762,specialcustomer,193
+10520,"Kuda Commercial",2369,30800,7700,13,September,2024,762,specialcustomer,193
+11924,Arcade,2308,30000,7500,13,November,2024,762,specialcustomer,193
+11744,"Dellyman Trade Fair",5538,72000,13600,13,January,2025,NULL,generalcustomer,193
+9510,Noshtrybe,1154,15000,4050,13,February,2025,762,specialcustomer,193
+11665,Okirikaboss,2000,24000,6000,12,August,2024,762,specialcustomer,199
+11862,"merak limited ",2000,24000,6000,12,September,2024,762,specialcustomer,199
+11392,"Qees Collections",2500,30000,7500,12,October,2024,762,specialcustomer,199
+11924,Arcade,2000,24000,6000,12,October,2024,762,specialcustomer,199
+11602,"SendPlus ",2709,32509,8127,12,October,2024,NULL,generalcustomer,199
+12132,Thefitnessfaculty,2500,30000,7500,12,October,2024,762,specialcustomer,199
+11934,"Clearline International Ltd",7500,90000,22500,12,November,2024,NULL,generalcustomer,199
+10792,"Kuda Atm Cards",0,0,0,12,January,2025,762,specialcustomer,199
+12371,"GVS COSMETICS ",7304,87650,20538,12,January,2025,NULL,generalcustomer,199
+11956,Jacbell,6000,72000,25200,12,March,2025,762,specialcustomer,199
+11194,"Chinwe Crystal",5579,66950,13390,12,March,2025,NULL,generalcustomer,199
+9552,"BlackLuna ",2519,27709,6039,11,August,2024,NULL,generalcustomer,210
+11902,"Esther Ighoyowin",2500,27500,6875,11,August,2024,762,specialcustomer,210
+11924,Arcade,2000,22000,5500,11,September,2024,762,specialcustomer,210
+460,"Olawunmi Akinkunmi",2500,27500,6875,11,October,2024,762,specialcustomer,210
+12152,"Hci Healthcare",2000,22000,5500,11,October,2024,762,specialcustomer,210
+12098,"Green Lotto Nigeria",18791,206700,51675,11,November,2024,NULL,generalcustomer,210
+11034,Shipafrica,3727,41000,10250,11,December,2024,762,specialcustomer,210
+9800,"Freshly Yours",3206,35265,8816,11,December,2024,NULL,generalcustomer,210
+11392,"Qees Collections",2500,27500,6875,11,January,2025,762,specialcustomer,210
+11534,"tivieh beads",2500,27500,6875,11,February,2025,762,specialcustomer,210
+12619,"Fragrance Planet",3273,36000,9000,11,February,2025,762,specialcustomer,210
+5373,Dellyman,2500,27500,6925,11,March,2025,762,specialcustomer,210
+10520,"Kuda Commercial",2860,28600,7150,10,August,2024,762,specialcustomer,222
+12300,Leemahwears,2500,25000,6250,10,December,2024,762,specialcustomer,222
+12304,Josh,9085,90850,22713,10,January,2025,762,specialcustomer,222
+11392,"Qees Collections",2500,25000,6250,10,February,2025,762,specialcustomer,222
+4180,"Grace	Johnson Oghos",3100,31000,7750,10,March,2025,762,specialcustomer,222
+11534,"tivieh beads",2000,18000,4500,9,August,2024,762,specialcustomer,227
+11427,"Shiip International",11178,100600,2700,9,August,2024,NULL,generalcustomer,227
+11902,"Esther Ighoyowin",2500,22500,5625,9,September,2024,762,specialcustomer,227
+11989,The_thriftplug,2500,22500,5625,9,September,2024,762,specialcustomer,227
+11034,Shipafrica,3444,31000,7750,9,October,2024,762,specialcustomer,227
+11392,"Qees Collections",2500,22500,5625,9,November,2024,762,specialcustomer,227
+10520,"Kuda Commercial",7333,66000,16500,9,December,2024,NULL,generalcustomer,227
+11534,"tivieh beads",2500,22500,5625,9,December,2024,762,specialcustomer,227
+12275,"Medplus Limited",21022,189200,47300,9,December,2024,762,specialcustomer,227
+11744,"Dellyman Trade Fair",3244,29200,7300,9,December,2024,762,specialcustomer,227
+11414,"instaDrop LLC",2667,24000,6000,9,February,2025,762,specialcustomer,227
+9510,Noshtrybe,1072,9650,2700,9,March,2025,762,specialcustomer,227
+12696,"Skin professionals",3500,31500,7875,9,March,2025,762,specialcustomer,227
+11392,"Qees Collections",2000,16000,4000,8,August,2024,762,specialcustomer,240
+11118,"Boluwatife ",2500,20000,5000,8,September,2024,762,specialcustomer,240
+12098,"Green Lotto Nigeria",17900,143200,35800,8,October,2024,NULL,generalcustomer,240
+12132,Thefitnessfaculty,2500,20000,5000,8,November,2024,762,specialcustomer,240
+11034,Shipafrica,5750,46000,11500,8,January,2025,NULL,generalcustomer,240
+460,"Olawunmi Akinkunmi",2500,20000,5000,8,January,2025,762,specialcustomer,240
+11956,Jacbell,6000,48000,16800,8,February,2025,762,specialcustomer,240
+11744,"Dellyman Trade Fair",6714,47000,2100,7,August,2024,NULL,generalcustomer,247
+11039,"Adaeze Obialor",2750,19247,4615,7,August,2024,NULL,generalcustomer,247
+9800,"Freshly Yours",3390,23733,5933,7,September,2024,NULL,generalcustomer,247
+11534,"tivieh beads",2071,14500,3625,7,September,2024,762,specialcustomer,247
+10520,"Kuda Commercial",2514,17600,4400,7,October,2024,762,specialcustomer,247
+12112,"Funke Kups",2086,14600,3650,7,October,2024,NULL,generalcustomer,247
+11915,"Ibukun Ale",4120,28840,7210,7,October,2024,NULL,generalcustomer,247
+8776,"Royal Herbal Secrets ",7142,49993,12498,7,November,2024,NULL,generalcustomer,247
+11118,"Boluwatife ",2500,17500,4375,7,November,2024,762,specialcustomer,247
+11919,Airfrance,29099,203694,50924,7,January,2025,NULL,generalcustomer,247
+11075,"Kuda Atm Lagos",1000,7000,2100,7,February,2025,762,specialcustomer,247
+5373,Dellyman,2143,15000,3800,7,February,2025,762,specialcustomer,247
+12152,"Hci Healthcare",2571,18000,4500,7,February,2025,762,specialcustomer,247
+11793,"NowNow Digital Systems ",15696,109874,21975,7,February,2025,NULL,generalcustomer,247
+4180,"Grace	Johnson Oghos",3000,21000,5250,7,February,2025,762,specialcustomer,247
+12167,"Dodan Foods",2000,14000,3500,7,March,2025,762,specialcustomer,247
+12397,"miracle ayodele ",4714,33000,8250,7,March,2025,762,specialcustomer,247
+10792,"Kuda Atm Cards",1500,9000,2250,6,August,2024,762,specialcustomer,264
+10925,"Body of Senior Advocates of Nigeria ",7000,42000,9000,6,October,2024,NULL,generalcustomer,264
+11956,Jacbell,18800,112800,26500,6,November,2024,NULL,generalcustomer,264
+12098,"Green Lotto Nigeria",9683,58100,14525,6,December,2024,NULL,generalcustomer,264
+12167,"Dodan Foods",2000,12000,3000,6,December,2024,762,specialcustomer,264
+9800,"Freshly Yours",3881,23288,5822,6,January,2025,NULL,generalcustomer,264
+12098,"Green Lotto Nigeria",8517,51100,8700,6,February,2025,NULL,generalcustomer,264
+5731,Kira,4112,24675,6168,6,February,2025,NULL,generalcustomer,264
+11919,Airfrance,7163,42980,10745,6,March,2025,762,specialcustomer,264
+12152,"Hci Healthcare",2000,12000,3000,6,March,2025,762,specialcustomer,264
+11118,"Boluwatife ",6500,39000,7800,6,March,2025,NULL,generalcustomer,264
+12696,"Skin professionals",5667,34000,6900,6,March,2025,NULL,generalcustomer,264
+11541,"Lasepa Headquarters",4000,20000,7000,5,August,2024,762,specialcustomer,276
+11769,"Famasi Africa ",7600,38000,1500,5,August,2024,NULL,generalcustomer,276
+11862,"merak limited ",2000,10000,2500,5,August,2024,762,specialcustomer,276
+11956,Jacbell,23540,117700,1500,5,September,2024,NULL,generalcustomer,276
+11919,Airfrance,4000,20000,5000,5,September,2024,762,specialcustomer,276
+9552,"BlackLuna ",3137,15685,3921,5,September,2024,NULL,generalcustomer,276
+10435,"Spikk Interstate",1000,5000,1250,5,October,2024,762,specialcustomer,276
+11665,Okirikaboss,2500,12500,3125,5,October,2024,762,specialcustomer,276
+267,"Adedoja Ojo-Bello",3200,16000,4000,5,October,2024,762,specialcustomer,276
+9800,"Freshly Yours",3974,19870,4967,5,October,2024,NULL,generalcustomer,276
+8776,"Royal Herbal Secrets ",5478,27392,6848,5,October,2024,NULL,generalcustomer,276
+9800,"Freshly Yours",3969,19847,4961,5,November,2024,NULL,generalcustomer,276
+11034,Shipafrica,11760,58800,14700,5,November,2024,NULL,generalcustomer,276
+12272,"Damilade ",3720,18601,4650,5,December,2024,NULL,generalcustomer,276
+12112,"Funke Kups",2340,11700,2925,5,December,2024,NULL,generalcustomer,276
+11534,"tivieh beads",2500,12500,3125,5,January,2025,762,specialcustomer,276
+9800,"Freshly Yours",4462,22310,5577,5,February,2025,NULL,generalcustomer,276
+11541,"Lasepa Headquarters",4000,20000,7000,5,March,2025,762,specialcustomer,276
+12374,"EBERECHUKWU BLESSING",2868,14338,3584,5,March,2025,NULL,generalcustomer,276
+8776,"Royal Herbal Secrets ",4531,18122,4531,4,August,2024,NULL,generalcustomer,295
+9518,"Maryam Ajoke",1786,7145,1786,4,August,2024,NULL,generalcustomer,295
+11387,"Omari Skin",2000,8000,2000,4,August,2024,762,specialcustomer,295
+11882,"toy treasure haven ",3785,15140,3785,4,August,2024,NULL,generalcustomer,295
+11744,"Dellyman Trade Fair",2375,9500,2375,4,August,2024,762,specialcustomer,295
+5430,Chibuzor,3893,15572,3893,4,September,2024,NULL,generalcustomer,295
+10287,"Cordelia Okam",2910,11640,2910,4,September,2024,NULL,generalcustomer,295
+11427,"Shiip International",8550,34200,1200,4,September,2024,NULL,generalcustomer,295
+11665,Okirikaboss,2500,10000,2500,4,September,2024,762,specialcustomer,295
+11744,"Dellyman Trade Fair",2375,9500,2375,4,September,2024,762,specialcustomer,295
+11902,"Esther Ighoyowin",2500,10000,2500,4,October,2024,762,specialcustomer,295
+9518,"Maryam Ajoke",3304,13216,3304,4,October,2024,NULL,generalcustomer,295
+12022,"Caleb Taiwo",2617,10470,2617,4,October,2024,NULL,generalcustomer,295
+9462,"Mrs Olutimehin Olufunke",2623,10493,2623,4,October,2024,NULL,generalcustomer,295
+11118,"Boluwatife ",6000,24000,6000,4,October,2024,NULL,generalcustomer,295
+12099,"Deborah Toluwaleke Farodoye ",3818,15270,3817,4,October,2024,NULL,generalcustomer,295
+12157,"Oluwaseyi Ogunrombi",4889,19555,4889,4,November,2024,NULL,generalcustomer,295
+11862,"merak limited ",2000,8000,2000,4,November,2024,762,specialcustomer,295
+11914,"Mide Albert",5612,22448,5612,4,December,2024,NULL,generalcustomer,295
+12109,Temiladeoladoyin,6988,27950,6988,4,December,2024,762,specialcustomer,295
+12158,"Coconutty Garri",2838,11351,2838,4,December,2024,NULL,generalcustomer,295
+12098,"Green Lotto Nigeria",3875,15500,3875,4,December,2024,762,specialcustomer,295
+9550,"Diana Effah",3451,13803,3451,4,December,2024,NULL,generalcustomer,295
+11940,"Machill ",3282,13130,3283,4,January,2025,NULL,generalcustomer,295
+11902,"Esther Ighoyowin",3500,14000,3500,4,January,2025,762,specialcustomer,295
+12158,"Coconutty Garri",4104,16415,4104,4,January,2025,NULL,generalcustomer,295
+12359,"Oba Oluwatoni ",3690,14760,3690,4,February,2025,NULL,generalcustomer,295
+11919,Airfrance,10100,40400,8080,4,March,2025,NULL,generalcustomer,295
+2832,So'Dab,2618,10473,2618,4,March,2025,NULL,generalcustomer,295
+12658,"Divine Mashante Resources ",4000,16000,4000,4,March,2025,762,specialcustomer,295
+11534,"tivieh beads",2500,10000,2500,4,March,2025,762,specialcustomer,295
+11118,"Boluwatife ",4250,17000,4250,4,March,2025,762,specialcustomer,295
+12727,"Marble Atinuke",3750,15000,3750,4,March,2025,762,specialcustomer,295
+9800,"Freshly Yours",2406,7218,1804,3,August,2024,NULL,generalcustomer,328
+5430,Chibuzor,1713,5140,1285,3,August,2024,NULL,generalcustomer,328
+7767,Damilola,2023,6070,1517,3,September,2024,NULL,generalcustomer,328
+11039,"Adaeze Obialor",4941,14824,3706,3,September,2024,NULL,generalcustomer,328
+11548,"moheen collections",4435,13304,3326,3,September,2024,NULL,generalcustomer,328
+10925,"Body of Senior Advocates of Nigeria ",2833,8500,2125,3,September,2024,762,specialcustomer,328
+10295,Hadiza,3968,11904,2381,3,October,2024,NULL,generalcustomer,328
+11387,"Omari Skin",2000,6000,1500,3,October,2024,762,specialcustomer,328
+11743,"Edit Wox",3224,9671,2418,3,November,2024,NULL,generalcustomer,328
+11376,"Toyin Eko",4191,12574,3143,3,November,2024,NULL,generalcustomer,328
+11902,"Esther Ighoyowin",2500,7500,1875,3,November,2024,762,specialcustomer,328
+11322,"Gnc Livewell",2000,6000,1500,3,November,2024,762,specialcustomer,328
+11548,"moheen collections",5013,15038,3760,3,November,2024,NULL,generalcustomer,328
+11934,"Clearline International Ltd",2000,6000,1500,3,November,2024,762,specialcustomer,328
+11914,"Mide Albert",3339,10016,2504,3,November,2024,NULL,generalcustomer,328
+11387,"Omari Skin",2000,6000,1500,3,December,2024,762,specialcustomer,328
+12152,"Hci Healthcare",2000,6000,1500,3,December,2024,762,specialcustomer,328
+2832,So'Dab,2590,7770,1943,3,December,2024,NULL,generalcustomer,328
+12157,"Oluwaseyi Ogunrombi",4623,13870,3468,3,December,2024,NULL,generalcustomer,328
+11934,"Clearline International Ltd",2427,7282,1821,3,December,2024,762,specialcustomer,328
+11376,"Toyin Eko",4192,12577,3144,3,December,2024,NULL,generalcustomer,328
+12304,Josh,7083,21250,5313,3,December,2024,762,specialcustomer,328
+11743,"Edit Wox",9690,29071,7268,3,January,2025,NULL,generalcustomer,328
+12152,"Hci Healthcare",2000,6000,1500,3,January,2025,762,specialcustomer,328
+11376,"Toyin Eko",4078,12234,3058,3,January,2025,NULL,generalcustomer,328
+12359,"Oba Oluwatoni ",2928,8785,2196,3,January,2025,NULL,generalcustomer,328
+11376,"Toyin Eko",2529,7586,1896,3,February,2025,NULL,generalcustomer,328
+11118,"Boluwatife ",6833,20500,5150,3,February,2025,NULL,generalcustomer,328
+5430,Chibuzor,3554,10663,2666,3,February,2025,NULL,generalcustomer,328
+12537,"Beauty Cove",3333,10000,2500,3,February,2025,762,specialcustomer,328
+11744,"Dellyman Trade Fair",6633,19900,3980,3,March,2025,NULL,generalcustomer,328
+12020,"ola idowu ",3911,11734,2934,3,March,2025,NULL,generalcustomer,328
+12109,Temiladeoladoyin,8067,24200,6050,3,March,2025,762,specialcustomer,328
+12721,"sophia e",3000,9000,2250,3,March,2025,762,specialcustomer,328
+12586,"Gold James ",4255,12765,3191,3,March,2025,NULL,generalcustomer,328
+1415,"Gbemileke Sanwo",3518,7036,1759,2,August,2024,NULL,generalcustomer,363
+2226,Jubril,2136,4272,1068,2,August,2024,NULL,generalcustomer,363
+11862,"merak limited ",6000,12000,600,2,August,2024,NULL,generalcustomer,363
+6574,"Mrs Nike Obaleke",3586,7172,719,2,August,2024,NULL,generalcustomer,363
+11919,Airfrance,7000,14000,600,2,August,2024,NULL,generalcustomer,363
+11376,"Toyin Eko",4366,8732,2183,2,August,2024,NULL,generalcustomer,363
+217,"Emmanuel Nwani",2988,5977,1494,2,August,2024,NULL,generalcustomer,363
+11962,"Lillian Njemanze",28000,56000,600,2,September,2024,NULL,generalcustomer,363
+9518,"Maryam Ajoke",3798,7596,1899,2,September,2024,NULL,generalcustomer,363
+11427,"Shiip International",13300,26600,3400,2,October,2024,NULL,generalcustomer,363
+267,"Adedoja Ojo-Bello",4874,9748,1445,2,October,2024,NULL,generalcustomer,363
+11322,"Gnc Livewell",2000,4000,1000,2,October,2024,762,specialcustomer,363
+2072,"Elizabeth Coker",3783,7566,1891,2,October,2024,NULL,generalcustomer,363
+11882,"toy treasure haven ",4281,8562,2141,2,October,2024,NULL,generalcustomer,363
+12109,Temiladeoladoyin,4655,9310,2328,2,October,2024,NULL,generalcustomer,363
+470,Ore'Oluwafunke,2800,5600,1400,2,October,2024,NULL,generalcustomer,363
+12109,Temiladeoladoyin,5425,10850,2713,2,October,2024,762,specialcustomer,363
+11919,Airfrance,95000,190000,47500,2,October,2024,NULL,generalcustomer,363
+10925,"Body of Senior Advocates of Nigeria ",7000,14000,500,2,November,2024,NULL,generalcustomer,363
+11427,"Shiip International",7000,14000,3500,2,November,2024,NULL,generalcustomer,363
+10372,"Terminal Africa",17900,35800,8950,2,November,2024,NULL,generalcustomer,363
+12158,"Coconutty Garri",3746,7492,1873,2,November,2024,NULL,generalcustomer,363
+5430,Chibuzor,3972,7945,1986,2,November,2024,NULL,generalcustomer,363
+10372,"Terminal Africa",6000,12000,3000,2,November,2024,762,specialcustomer,363
+2072,"Elizabeth Coker",3636,7272,1818,2,November,2024,NULL,generalcustomer,363
+12109,Temiladeoladoyin,6290,12580,3145,2,November,2024,762,specialcustomer,363
+11602,"SendPlus ",2652,5304,1326,2,November,2024,NULL,generalcustomer,363
+12038,"Chukwuebuka Agholor",6824,13648,3412,2,November,2024,NULL,generalcustomer,363
+9518,"Maryam Ajoke",5000,10000,2500,2,November,2024,NULL,generalcustomer,363
+2832,So'Dab,1880,3760,940,2,November,2024,NULL,generalcustomer,363
+12219,T.h.a.s.e,2500,5000,1250,2,November,2024,762,specialcustomer,363
+11841,"Funmilayo ",6285,12570,3143,2,November,2024,NULL,generalcustomer,363
+12109,Temiladeoladoyin,5930,11860,2965,2,November,2024,NULL,generalcustomer,363
+10372,"Terminal Africa",4000,8000,2000,2,December,2024,762,specialcustomer,363
+921,"Joshua Omotolani",1993,3986,997,2,December,2024,NULL,generalcustomer,363
+10630,"NaturallyFAB.ng ",2888,5776,1444,2,December,2024,NULL,generalcustomer,363
+11902,"Esther Ighoyowin",2500,5000,1250,2,December,2024,762,specialcustomer,363
+12219,T.h.a.s.e,2500,5000,1250,2,December,2024,762,specialcustomer,363
+8776,"Royal Herbal Secrets ",4106,8213,2053,2,December,2024,NULL,generalcustomer,363
+11548,"moheen collections",4872,9743,2436,2,December,2024,NULL,generalcustomer,363
+486,Uchechi,3054,6107,1527,2,December,2024,NULL,generalcustomer,363
+12027,"Maryann Nwanneka",3785,7570,1893,2,December,2024,NULL,generalcustomer,363
+212,"Emmanuel Obu",2000,4000,1000,2,December,2024,762,specialcustomer,363
+460,"Olawunmi Akinkunmi",2500,5000,1250,2,December,2024,762,specialcustomer,363
+11118,"Boluwatife ",8000,16000,4000,2,January,2025,NULL,generalcustomer,363
+12319,"Vivian Omonigho",6000,12000,3000,2,January,2025,NULL,generalcustomer,363
+11841,"Funmilayo ",8267,16534,4134,2,January,2025,NULL,generalcustomer,363
+10630,"NaturallyFAB.ng ",3187,6374,1594,2,January,2025,NULL,generalcustomer,363
+5731,Kira,2652,5305,1326,2,January,2025,NULL,generalcustomer,363
+11541,"Lasepa Headquarters",0,0,0,2,January,2025,762,specialcustomer,363
+9510,Noshtrybe,1100,2200,600,2,January,2025,762,specialcustomer,363
+7767,Damilola,2969,5938,1485,2,January,2025,NULL,generalcustomer,363
+11841,"Funmilayo ",7060,14120,3530,2,February,2025,NULL,generalcustomer,363
+212,"Emmanuel Obu",2000,4000,1000,2,February,2025,762,specialcustomer,363
+171,"Dare Ojo-Bello",2300,4600,1150,2,February,2025,762,specialcustomer,363
+460,"Olawunmi Akinkunmi",2500,5000,1250,2,February,2025,762,specialcustomer,363
+12586,"Gold James ",3625,7250,1813,2,February,2025,NULL,generalcustomer,363
+11118,"Boluwatife ",5000,10000,2500,2,February,2025,762,specialcustomer,363
+11744,"Dellyman Trade Fair",2500,5000,1250,2,February,2025,762,specialcustomer,363
+2226,Jubril,3721,7442,1861,2,February,2025,NULL,generalcustomer,363
+12622,"Opeyemi Alaran",4645,9290,2323,2,February,2025,NULL,generalcustomer,363
+5373,Dellyman,9750,19500,4400,2,February,2025,NULL,generalcustomer,363
+12622,"Opeyemi Alaran",3664,7328,1832,2,March,2025,NULL,generalcustomer,363
+171,"Dare Ojo-Bello",1300,2600,800,2,March,2025,762,specialcustomer,363
+12112,"Funke Kups",2000,4000,1000,2,March,2025,NULL,generalcustomer,363
+460,"Olawunmi Akinkunmi",2500,5000,1250,2,March,2025,762,specialcustomer,363
+12344,"Utim Anthony Orngu",2754,5508,1377,2,March,2025,NULL,generalcustomer,363
+11414,"instaDrop LLC",2500,5000,1250,2,March,2025,762,specialcustomer,363
+10925,"Body of Senior Advocates of Nigeria ",1750,3500,925,2,March,2025,762,specialcustomer,363
+1195,"Badmus Abiola",4498,8995,2249,2,March,2025,NULL,generalcustomer,363
+12098,"Green Lotto Nigeria",11150,22300,4460,2,March,2025,NULL,generalcustomer,363
+11770,"DOT AI",7000,7000,300,1,August,2024,NULL,generalcustomer,434
+360,Rakeeb,2390,2390,598,1,August,2024,NULL,generalcustomer,434
+11548,"moheen collections",3063,3063,766,1,August,2024,NULL,generalcustomer,434
+486,Uchechi,2709,2709,677,1,August,2024,NULL,generalcustomer,434
+11894,"Okechukwu Polycarp Ubah ",4214,4214,1054,1,August,2024,NULL,generalcustomer,434
+7837,Oluwatomiwa,1652,1652,413,1,August,2024,NULL,generalcustomer,434
+1630,"2902 Gadgetz",2324,2324,581,1,August,2024,NULL,generalcustomer,434
+921,"Joshua Omotolani",1556,1556,389,1,August,2024,NULL,generalcustomer,434
+11917,"INFINITY INNOVATECH ",39900,39900,300,1,August,2024,NULL,generalcustomer,434
+212,"Emmanuel Obu",2000,2000,500,1,August,2024,762,specialcustomer,434
+7681,"Anna Mafuru",2348,2348,587,1,August,2024,NULL,generalcustomer,434
+11936,"Lavish Luxury",10000,10000,300,1,August,2024,NULL,generalcustomer,434
+6176,"Mrs Beatrice Ayangbesan",5240,5240,1310,1,August,2024,NULL,generalcustomer,434
+10630,"NaturallyFAB.ng ",3068,3068,767,1,August,2024,NULL,generalcustomer,434
+10549,"Onikepo Adeyemi",4655,4655,1164,1,August,2024,NULL,generalcustomer,434
+10746,"princewill ",10232,10232,2558,1,August,2024,NULL,generalcustomer,434
+6348,"Angela Da-Silva",2532,2532,300,1,August,2024,NULL,generalcustomer,434
+8603,"plusmore Store",2980,2980,745,1,August,2024,NULL,generalcustomer,434
+4522,Boladeh,3044,3044,761,1,August,2024,NULL,generalcustomer,434
+11951,"Anne Sos",2000,2000,500,1,August,2024,762,specialcustomer,434
+2734,Dccakez,4776,4776,1194,1,August,2024,NULL,generalcustomer,434
+10323,Chigozie,1661,1661,415,1,August,2024,NULL,generalcustomer,434
+9462,"Mrs Olutimehin Olufunke",3464,3464,866,1,August,2024,NULL,generalcustomer,434
+512,"Sadiq Joyce",3992,3992,998,1,August,2024,NULL,generalcustomer,434
+1535,"Patrick Osamor",2964,2964,741,1,September,2024,NULL,generalcustomer,434
+10508,"Olusola Olanipekun ",3241,3241,810,1,September,2024,NULL,generalcustomer,434
+11995,"For Fine Girls",7000,7000,1750,1,September,2024,762,specialcustomer,434
+715,"Olaoluwa Adekoya",1500,1500,375,1,September,2024,NULL,generalcustomer,434
+460,"Olawunmi Akinkunmi",2500,2500,625,1,September,2024,762,specialcustomer,434
+1415,"Gbemileke Sanwo",5976,5976,1494,1,September,2024,NULL,generalcustomer,434
+12016,"Lyndyz Logistics",4076,4076,1019,1,September,2024,NULL,generalcustomer,434
+11989,The_thriftplug,3000,3000,300,1,September,2024,NULL,generalcustomer,434
+4956,"Temitope Taiwo",5920,5920,1480,1,September,2024,NULL,generalcustomer,434
+12020,"ola idowu ",3485,3485,871,1,September,2024,NULL,generalcustomer,434
+11034,Shipafrica,6000,6000,300,1,September,2024,NULL,generalcustomer,434
+1522,"Sir Clem",4940,4940,1235,1,September,2024,NULL,generalcustomer,434
+10630,"NaturallyFAB.ng ",2506,2506,626,1,September,2024,NULL,generalcustomer,434
+12038,"Chukwuebuka Agholor",7724,7724,1931,1,September,2024,NULL,generalcustomer,434
+11915,"Ibukun Ale",4032,4032,1008,1,September,2024,NULL,generalcustomer,434
+11322,"Gnc Livewell",2000,2000,500,1,September,2024,762,specialcustomer,434
+2908,"Shayo Adebayo",3224,3224,806,1,September,2024,NULL,generalcustomer,434
+267,"Adedoja Ojo-Bello",2000,2000,500,1,September,2024,NULL,generalcustomer,434
+267,"Adedoja Ojo-Bello",3000,3000,750,1,September,2024,762,specialcustomer,434
+2832,So'Dab,3900,3900,300,1,September,2024,NULL,generalcustomer,434
+11796,"AuBraids.ng ",6280,6280,1570,1,September,2024,NULL,generalcustomer,434
+2875,"Oluwaseun Adenuga",2996,2996,749,1,September,2024,NULL,generalcustomer,434
+1763,"Livingspring Physiotherapy Clinic",17368,17368,4342,1,September,2024,NULL,generalcustomer,434
+10372,"Terminal Africa",4850,4850,250,1,October,2024,NULL,generalcustomer,434
+11541,"Lasepa Headquarters",0,0,0,1,October,2024,762,specialcustomer,434
+11970,"Luxe By Dencia",4500,4500,1125,1,October,2024,762,specialcustomer,434
+11862,"merak limited ",6000,6000,300,1,October,2024,NULL,generalcustomer,434
+11034,Shipafrica,6000,6000,300,1,October,2024,NULL,generalcustomer,434
+10323,Chigozie,2873,2873,718,1,October,2024,NULL,generalcustomer,434
+11862,"merak limited ",2000,2000,500,1,October,2024,762,specialcustomer,434
+9552,"BlackLuna ",2869,2869,717,1,October,2024,NULL,generalcustomer,434
+11055,"Ohiwerei Jennifer ",5272,5272,1318,1,October,2024,NULL,generalcustomer,434
+5373,Dellyman,4630,4630,300,1,October,2024,NULL,generalcustomer,434
+3797,Oluwatimilehin,2025,2025,506,1,October,2024,NULL,generalcustomer,434
+7285,"Asimi Mumini Ayinla",4226,4226,1056,1,October,2024,NULL,generalcustomer,434
+11793,"NowNow Digital Systems ",2500,2500,625,1,October,2024,762,specialcustomer,434
+11194,"Chinwe Crystal",5000,5000,1250,1,October,2024,NULL,generalcustomer,434
+1415,"Gbemileke Sanwo",3620,3620,905,1,October,2024,NULL,generalcustomer,434
+7767,Damilola,3193,3193,798,1,October,2024,NULL,generalcustomer,434
+12029,"ndidi nduka",3080,3080,770,1,October,2024,NULL,generalcustomer,434
+11744,"Dellyman Trade Fair",2500,2500,625,1,October,2024,762,specialcustomer,434
+212,"Emmanuel Obu",2000,2000,500,1,October,2024,762,specialcustomer,434
+11118,"Boluwatife ",2500,2500,625,1,October,2024,762,specialcustomer,434
+252,"Shola Ojo-Bello",38500,38500,9625,1,October,2024,NULL,generalcustomer,434
+12038,"Chukwuebuka Agholor",4244,4244,1061,1,October,2024,NULL,generalcustomer,434
+12144,Segun,2000,2000,500,1,October,2024,NULL,generalcustomer,434
+1856,"Olubukola Alaba Akinbola",10000,10000,2500,1,October,2024,762,specialcustomer,434
+12158,"Coconutty Garri",2588,2588,647,1,October,2024,NULL,generalcustomer,434
+7658,"Richard Ayoade",3400,3400,850,1,October,2024,NULL,generalcustomer,434
+11744,"Dellyman Trade Fair",7000,7000,1750,1,November,2024,NULL,generalcustomer,434
+252,"Shola Ojo-Bello",7000,7000,1750,1,November,2024,NULL,generalcustomer,434
+2226,Jubril,3764,3764,941,1,November,2024,NULL,generalcustomer,434
+9552,"BlackLuna ",2598,2598,650,1,November,2024,NULL,generalcustomer,434
+11919,Airfrance,9000,9000,2250,1,November,2024,NULL,generalcustomer,434
+221,"Shola Ojo-Bello",4180,4180,1045,1,November,2024,NULL,generalcustomer,434
+2734,Dccakez,5748,5748,1437,1,November,2024,NULL,generalcustomer,434
+7767,Damilola,2841,2841,710,1,November,2024,NULL,generalcustomer,434
+9462,"Mrs Olutimehin Olufunke",3200,3200,800,1,November,2024,NULL,generalcustomer,434
+2191,"Ijeoma Ibemesi",2225,2225,556,1,November,2024,NULL,generalcustomer,434
+715,"Olaoluwa Adekoya",3020,3020,755,1,November,2024,NULL,generalcustomer,434
+12022,"Caleb Taiwo",3324,3324,831,1,November,2024,NULL,generalcustomer,434
+12233,"Catherine Nwachukwu ",8754,8754,2189,1,November,2024,NULL,generalcustomer,434
+460,"Olawunmi Akinkunmi",2500,2500,625,1,November,2024,762,specialcustomer,434
+12248,"Ibrahim Taiwo Ameenah",2855,2855,714,1,November,2024,NULL,generalcustomer,434
+12242,"Emmanuel Olalekan Akinpelu ",5615,5615,1404,1,November,2024,NULL,generalcustomer,434
+11387,"Omari Skin",2000,2000,500,1,November,2024,762,specialcustomer,434
+12259,"Carmen Oderinde",6785,6785,1696,1,November,2024,NULL,generalcustomer,434
+12027,"Maryann Nwanneka",3539,3539,885,1,November,2024,NULL,generalcustomer,434
+12098,"Green Lotto Nigeria",2500,2500,625,1,November,2024,762,specialcustomer,434
+9418,"Okafor Mercy",4460,4460,1115,1,November,2024,NULL,generalcustomer,434
+12272,"Damilade ",5900,5900,1475,1,November,2024,NULL,generalcustomer,434
+11322,"Gnc Livewell",2000,2000,500,1,December,2024,762,specialcustomer,434
+12109,Temiladeoladoyin,5540,5540,1385,1,December,2024,NULL,generalcustomer,434
+9462,"Mrs Olutimehin Olufunke",2664,2664,666,1,December,2024,NULL,generalcustomer,434
+5430,Chibuzor,2961,2961,740,1,December,2024,NULL,generalcustomer,434
+7767,Damilola,2096,2096,524,1,December,2024,NULL,generalcustomer,434
+11862,"merak limited ",2000,2000,500,1,December,2024,762,specialcustomer,434
+12022,"Caleb Taiwo",3239,3239,810,1,December,2024,NULL,generalcustomer,434
+267,"Adedoja Ojo-Bello",3500,3500,875,1,December,2024,762,specialcustomer,434
+7612,"Mrs Etukudo ",3343,3343,836,1,December,2024,NULL,generalcustomer,434
+6553,Ebere,4253,4253,1063,1,December,2024,NULL,generalcustomer,434
+8787,"Oluwaseyi  Onabiyi ",3522,3522,881,1,December,2024,NULL,generalcustomer,434
+2191,"Ijeoma Ibemesi",2475,2475,619,1,December,2024,NULL,generalcustomer,434
+12301,"Joy Atubazi",5310,5310,1328,1,December,2024,NULL,generalcustomer,434
+512,"Sadiq Joyce",3488,3488,872,1,December,2024,NULL,generalcustomer,434
+12310,"Tolu Ogungbade",4905,4905,1226,1,December,2024,NULL,generalcustomer,434
+12308,"Adenike kehinde",4514,4514,1129,1,December,2024,NULL,generalcustomer,434
+9599,Tobi,4487,4487,1122,1,December,2024,NULL,generalcustomer,434
+3797,Oluwatimilehin,5135,5135,1284,1,December,2024,NULL,generalcustomer,434
+10391,"Pharmarun Africa",6500,6500,1625,1,December,2024,762,specialcustomer,434
+1415,"Gbemileke Sanwo",3690,3690,923,1,December,2024,NULL,generalcustomer,434
+12302,"Oma’s Perfumery",3364,3364,841,1,December,2024,NULL,generalcustomer,434
+1179,"Fdz Stores (doyin)",4176,4176,1044,1,December,2024,NULL,generalcustomer,434
+2734,Dccakez,2437,2437,609,1,December,2024,NULL,generalcustomer,434
+408,Blessing,3407,3407,852,1,December,2024,NULL,generalcustomer,434
+1615,"Lewis Oluwasegun",11511,11511,2878,1,December,2024,NULL,generalcustomer,434
+2908,"Shayo Adebayo",4122,4122,1031,1,December,2024,NULL,generalcustomer,434
+2072,"Elizabeth Coker",2794,2794,699,1,December,2024,NULL,generalcustomer,434
+8325,"Funmi Lawal",6500,6500,1625,1,January,2025,NULL,generalcustomer,434
+10391,"Pharmarun Africa",5690,5690,1423,1,January,2025,762,specialcustomer,434
+10391,"Pharmarun Africa",9000,9000,2250,1,January,2025,NULL,generalcustomer,434
+12302,"Oma’s Perfumery",8500,8500,2125,1,January,2025,NULL,generalcustomer,434
+11603,"jen fashio ",9700,9700,2425,1,January,2025,NULL,generalcustomer,434
+6081,"Susan Adeola Vincent",1868,1868,467,1,January,2025,NULL,generalcustomer,434
+486,Uchechi,1723,1723,431,1,January,2025,NULL,generalcustomer,434
+11919,Airfrance,4000,4000,1000,1,January,2025,762,specialcustomer,434
+1856,"Olubukola Alaba Akinbola",6560,6560,1640,1,January,2025,NULL,generalcustomer,434
+9599,Tobi,7540,7540,1885,1,January,2025,NULL,generalcustomer,434
+12167,"Dodan Foods",2000,2000,500,1,January,2025,762,specialcustomer,434
+12360,Precious,3860,3860,965,1,January,2025,NULL,generalcustomer,434
+10925,"Body of Senior Advocates of Nigeria ",3000,3000,750,1,January,2025,762,specialcustomer,434
+11862,"merak limited ",2000,2000,500,1,January,2025,762,specialcustomer,434
+11549,"Peter ",7529,7529,1882,1,January,2025,NULL,generalcustomer,434
+2734,Dccakez,3365,3365,841,1,January,2025,NULL,generalcustomer,434
+12027,"Maryann Nwanneka",3881,3881,970,1,January,2025,NULL,generalcustomer,434
+11039,"Adaeze Obialor",5114,5114,1279,1,January,2025,NULL,generalcustomer,434
+12022,"Caleb Taiwo",2916,2916,729,1,January,2025,NULL,generalcustomer,434
+12386,"AMIDU ADETOLA",1710,1710,475,1,January,2025,NULL,generalcustomer,434
+12375,"Sylvia Akim",3111,3111,778,1,January,2025,NULL,generalcustomer,434
+212,"Emmanuel Obu",2000,2000,500,1,January,2025,762,specialcustomer,434
+12371,"GVS COSMETICS ",5000,5000,1250,1,January,2025,762,specialcustomer,434
+11848,"Magodo Residents Association ",1000,1000,300,1,January,2025,762,specialcustomer,434
+12112,"Funke Kups",5000,5000,1250,1,January,2025,NULL,generalcustomer,434
+4522,Boladeh,4745,4745,1186,1,January,2025,NULL,generalcustomer,434
+1179,"Fdz Stores (doyin)",3325,3325,831,1,January,2025,NULL,generalcustomer,434
+699,"Esther	Emmanuel-Obu",9220,9220,2305,1,January,2025,NULL,generalcustomer,434
+11602,"SendPlus ",2000,2000,500,1,January,2025,NULL,generalcustomer,434
+1415,"Gbemileke Sanwo",4385,4385,1096,1,January,2025,NULL,generalcustomer,434
+9462,"Mrs Olutimehin Olufunke",7818,7818,1955,1,January,2025,NULL,generalcustomer,434
+2832,So'Dab,2484,2484,621,1,January,2025,NULL,generalcustomer,434
+512,"Sadiq Joyce",9980,9980,1996,1,February,2025,NULL,generalcustomer,434
+170,"Dare Ojo-Bello",2132,2132,533,1,February,2025,NULL,generalcustomer,434
+11743,"Edit Wox",3947,3947,987,1,February,2025,NULL,generalcustomer,434
+486,Uchechi,2840,2840,710,1,February,2025,NULL,generalcustomer,434
+12167,"Dodan Foods",2000,2000,500,1,February,2025,762,specialcustomer,434
+11744,"Dellyman Trade Fair",14000,14000,3500,1,February,2025,NULL,generalcustomer,434
+8776,"Royal Herbal Secrets ",10500,10500,2625,1,February,2025,NULL,generalcustomer,434
+12152,"Hci Healthcare",5000,5000,0,1,February,2025,NULL,generalcustomer,434
+9518,"Maryam Ajoke",9500,9500,2375,1,February,2025,NULL,generalcustomer,434
+9599,Tobi,2810,2810,703,1,February,2025,NULL,generalcustomer,434
+12386,"AMIDU ADETOLA",4000,4000,1250,1,February,2025,NULL,generalcustomer,434
+12532,"Joes Foods",5170,5170,1293,1,February,2025,NULL,generalcustomer,434
+12310,"Tolu Ogungbade",2060,2060,515,1,February,2025,NULL,generalcustomer,434
+3797,Oluwatimilehin,2940,2940,735,1,February,2025,NULL,generalcustomer,434
+12593,"bodude Maemunat ",5000,5000,1000,1,February,2025,NULL,generalcustomer,434
+7658,"Richard Ayoade",1700,1700,425,1,February,2025,NULL,generalcustomer,434
+1856,"Olubukola Alaba Akinbola",9110,9110,2278,1,February,2025,NULL,generalcustomer,434
+12632,"Nimat Bukola",2769,2769,692,1,February,2025,NULL,generalcustomer,434
+12254,"Lucia ",4385,4385,1096,1,February,2025,NULL,generalcustomer,434
+4522,Boladeh,2448,2448,612,1,February,2025,NULL,generalcustomer,434
+10925,"Body of Senior Advocates of Nigeria ",3000,3000,750,1,February,2025,762,specialcustomer,434
+12275,"Medplus Limited",9300,9300,2325,1,March,2025,762,specialcustomer,434
+9800,"Freshly Yours",4099,4099,1025,1,March,2025,NULL,generalcustomer,434
+5731,Kira,3136,3136,784,1,March,2025,NULL,generalcustomer,434
+10372,"Terminal Africa",4000,4000,1000,1,March,2025,762,specialcustomer,434
+9462,"Mrs Olutimehin Olufunke",2581,2581,645,1,March,2025,NULL,generalcustomer,434
+11841,"Funmilayo ",8090,8090,2023,1,March,2025,NULL,generalcustomer,434
+12532,"Joes Foods",3850,3850,963,1,March,2025,NULL,generalcustomer,434
+5430,Chibuzor,4581,4581,1145,1,March,2025,NULL,generalcustomer,434
+8325,"Funmi Lawal",7500,7500,1875,1,March,2025,NULL,generalcustomer,434
+9599,Tobi,3393,3393,848,1,March,2025,NULL,generalcustomer,434
+12672,"Abigail Nwachukwu ",6230,6230,1558,1,March,2025,NULL,generalcustomer,434
+12680,"Elsie Maxwell ",5920,5920,1480,1,March,2025,NULL,generalcustomer,434
+6176,"Mrs Beatrice Ayangbesan",5500,5500,1375,1,March,2025,762,specialcustomer,434
+212,"Emmanuel Obu",3500,3500,875,1,March,2025,762,specialcustomer,434
+12523,"Blessing Abimbola",6875,6875,1719,1,March,2025,NULL,generalcustomer,434
+11664,"Leadway Health Limited ",6500,6500,1300,1,March,2025,NULL,generalcustomer,434
+10925,"Body of Senior Advocates of Nigeria ",7500,7500,1500,1,March,2025,NULL,generalcustomer,434
+12563,"Omolola Akintola Jimoh ",5090,5090,1273,1,March,2025,NULL,generalcustomer,434
+5062,Kandle,2500,2500,625,1,March,2025,762,specialcustomer,434
+1794,Adeola,3562,3562,891,1,March,2025,NULL,generalcustomer,434
+9550,"Diana Effah",2000,2000,500,1,March,2025,NULL,generalcustomer,434
+11376,"Toyin Eko",2255,2255,564,1,March,2025,NULL,generalcustomer,434
+9541,"Reliance Health",14450,14450,2890,1,March,2025,NULL,generalcustomer,434
+12386,"AMIDU ADETOLA",1620,1620,450,1,March,2025,NULL,generalcustomer,434
+12716,"onyinye love",2752,2752,688,1,March,2025,NULL,generalcustomer,434
+11902,"Esther Ighoyowin",2500,2500,625,1,March,2025,762,specialcustomer,434
+2734,Dccakez,2945,2945,736,1,March,2025,NULL,generalcustomer,434
+12573,"doc joseph",3000,3000,750,1,March,2025,762,specialcustomer,434
+12205,"Adebimpe ",4430,4430,1108,1,March,2025,NULL,generalcustomer,434
