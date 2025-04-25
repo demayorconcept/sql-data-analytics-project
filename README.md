@@ -1,5 +1,5 @@
 # Logistics Company Customers Monthly Booking Analysis
-![](
+![](dellymanlogo.jpg)
 ## Introduction
 This is sql project on customers order booking,this project is to analyse, identify customers order trends
 summarise total orders booked by customers and generate insights from the data between august 2024 and march 2025
@@ -18,6 +18,7 @@ the following concepts are used:
 4. set operators
 
 ## Queried table
+![](bookedorders.png)
 
 
 
