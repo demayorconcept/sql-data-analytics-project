@@ -47,7 +47,7 @@ month
 3. we need to focus on our customers buying patterns on monthly basics and improve more on services to meet their needs
 
 ## conclusion
-This project successfully demonstrates the power of SQL in analyzing real-world retail data. Through structured querying and data transformation, we uncovered insights into customer behavior and and sales performance. These insights can guide data-backed strategies to boost revenue, enhance customer satisfaction, and streamline business operations
+This project successfully demonstrates the power of SQL in analyzing real-world logistics data with a touch of excel. Through structured querying and data transformation, we uncovered insights into customer behavior and and sales performance. These insights can guide data-backed strategies to boost revenue, enhance customer satisfaction, and streamline business operations.
 
 
    
