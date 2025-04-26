@@ -31,10 +31,23 @@ customers
 2. reliance health is the customers with the highest booked orders followed by shipbubble tech
 3. reliance health is the customers with the highest revenue followed by josh and medplus limited
    for the case of josh and medplus limited the order volume is always large and they`re majorly interstate
+   
 customers category
 1. special customers have the highest booked orders than general customers because they booked orders in bulk
-month 
+month
+2. special customers generated the highest revenue than general customers because their order volume is always in bulk
 
+month
+1. october 2024 is the month that customers booked the most we need to identify why this customers used our
+   services compare to last previous months
+   
+## Recommendations
+1. we neeed to focus on the monthly orders patterns of our customers 
+2. we need to focus on the customers that orders consecutively increases on monthly basics and finding a way to retain them as our customers
+3. we need to focus on our customers buying patterns on monthly basics and improve more on services to meet their needs
+
+## conclusion
+This project successfully demonstrates the power of SQL in analyzing real-world retail data. Through structured querying and data transformation, we uncovered insights into customer behavior and and sales performance. These insights can guide data-backed strategies to boost revenue, enhance customer satisfaction, and streamline business operations
 
 
    
